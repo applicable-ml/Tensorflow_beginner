@@ -34,5 +34,5 @@ python train.py
 ## 3. Convert
 
 ```shell
-python convert_tf2keras_to_mlmodel.py
+python convert_tf1keras_to_mlmodel.py
 ```
