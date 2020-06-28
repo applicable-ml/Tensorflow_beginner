@@ -1,8 +1,3 @@
-# Tensorflow_beginner
-tutorial for tensorflow
-
-> 현아님 원하는데로 고쳐주세요~
-
 ## 1. Setup python env
 
 ### 1.1 Create env
